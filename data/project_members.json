@@ -1,0 +1,7 @@
+﻿[
+  {"project_id": 1, "user_id": 2, "role": "PM"},
+  {"project_id": 1, "user_id": 3, "role": "Member"},
+  {"project_id": 2, "user_id": 2, "role": "PM"},
+  {"project_id": 2, "user_id": 3, "role": "Member"},
+  {"project_id": 3, "user_id": 4, "role": "PM"}
+]

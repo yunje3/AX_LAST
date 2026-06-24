@@ -1,0 +1,6 @@
+﻿[
+  {"id": 1, "user_id": 3, "team_id": 1, "project_id": 1, "schedule_type": "근무", "title": "MVP 화면 개발", "description": "프로젝트/일정 페이지 구현", "start_at": "2026-06-24T09:00:00", "end_at": "2026-06-24T18:00:00", "is_all_day": false, "approval_status": "등록", "created_at": "2026-06-23T10:00:00"},
+  {"id": 2, "user_id": 2, "team_id": 1, "project_id": 1, "schedule_type": "출장", "title": "본사 미팅", "description": "프로젝트 범위 협의", "start_at": "2026-06-25T10:00:00", "end_at": "2026-06-25T16:00:00", "is_all_day": false, "approval_status": "등록", "created_at": "2026-06-23T11:00:00"},
+  {"id": 3, "user_id": 3, "team_id": 1, "project_id": null, "schedule_type": "휴가", "title": "오후 반차", "description": "개인 일정", "start_at": "2026-06-26T13:00:00", "end_at": "2026-06-26T18:00:00", "is_all_day": false, "approval_status": "등록", "created_at": "2026-06-23T12:00:00"},
+  {"id": 4, "user_id": 4, "team_id": 2, "project_id": 3, "schedule_type": "외근", "title": "고객사 방문", "description": "제안서 사전 협의", "start_at": "2026-06-24T14:00:00", "end_at": "2026-06-24T17:00:00", "is_all_day": false, "approval_status": "등록", "created_at": "2026-06-23T13:00:00"}
+]
